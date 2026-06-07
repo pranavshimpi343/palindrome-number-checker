@@ -12,4 +12,4 @@ number = int(input("Enter a number: "))
 if is_palindrome(number):
     print(number, "is a Palindrome Number")
 else:
-    print(number, "is not a Palindrome Number")
+    print(number, "is not a Palindrome Number")2
